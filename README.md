@@ -1,26 +1,42 @@
+<div align="center">
 
 # DesenvBR Group
 
-Bem-vindo à nossa empresa, onde a tecnologia e a inovação são nossas paixões. Nós somos um grupo altamente qualificados e experientes em desenvolvimento de software, prontos para fornecer soluções personalizadas e de alta qualidade para nossos clientes.
+**Tecnologia. Inovacao. Resultado.**
 
-Nosso objetivo é fornecer soluções tecnológicas que melhorem a eficiência e a produtividade dos  nossos clientes.
+[![Hub](https://img.shields.io/badge/Hub-desenvbr.com-blue?style=for-the-badge)](https://hub.desenvbr.com)
+[![Site](https://img.shields.io/badge/Site-desenvbr.com-green?style=for-the-badge)](https://desenvbr.com)
 
-Com um forte compromisso com a qualidade, nossa equipe utiliza as tecnologias mais recentes e as melhores práticas de desenvolvimento de software para garantir que nossos produtos sejam confiáveis, escaláveis e seguros. Nós somos especializados em desenvolvimento web, mobile, de desktop e em outras áreas, incluindo inteligência artificial, aprendizado de máquina e segurança da informação.
+</div>
 
-[Clique aqui e acesse nosso site.](https://desenvbr.com/)
-## Apps
+---
 
- - [IntellifitClub](https://intellifitclub.com)
+## Sobre nos
 
+Somos um grupo especializado em desenvolvimento de software, focado em entregar solucoes personalizadas e de alta qualidade. Nossa missao e transformar ideias em produtos digitais que melhorem a eficiencia e a produtividade dos nossos clientes.
 
-## Cursos
+## O que fazemos
 
-- [FrontFull - Javascript/Typescript](https://frontfull.desenvbr.com/)
+- **Desenvolvimento Web** -- Aplicacoes modernas, responsivas e performaticas
+- **Desenvolvimento Mobile** -- Apps nativos e multiplataforma
+- **Desenvolvimento Desktop** -- Solucoes robustas para ambientes corporativos
+- **Inteligencia Artificial & Machine Learning** -- Automacao inteligente e analise de dados
+- **Seguranca da Informacao** -- Protecao e conformidade para seus sistemas
 
+## Nosso compromisso
 
-## Licenças e direitos reservados
+Utilizamos as tecnologias mais recentes e as melhores praticas do mercado para garantir produtos **confiaveis**, **escalaveis** e **seguros**.
 
-- IntellifitClub
-- FrontFull
+## Acesse nosso Hub
 
+Todos os nossos produtos, cursos e novidades estao centralizados no nosso hub:
 
+**[hub.desenvbr.com](https://hub.desenvbr.com)**
+
+---
+
+<div align="center">
+
+**DesenvBR Group** -- Todos os direitos reservados.
+
+</div>
